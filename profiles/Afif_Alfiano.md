@@ -1,4 +1,4 @@
-# Arie Kurniawan
+# Afif Alfiano
 
 ### Location
 
@@ -22,7 +22,7 @@ STMIK AKAKOM
 
 - [Landing Page Covid-19](https://github.com/afifalfiano/WebComponentCovid)
 
-- [Data Covid-19] (https://github.com/afifalfiano/WebComponentCovid)
+- [Data Covid-19](https://github.com/afifalfiano/WebComponentCovid)
 
 ### Profile Link
 
