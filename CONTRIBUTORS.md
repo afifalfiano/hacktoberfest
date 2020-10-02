@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Afif Alfiano](https://github.com/afifalfiano)
+- Place: Yogyakarta, DIY, Indonesia
+- Bio: Everything is a learning.
+- Github: [Afif Alfiano](https://github.com/afifalfiano)
